@@ -1,8 +1,8 @@
-# Hi 👋, I'm @jimchen5209  ![View Count](https://komarev.com/ghpvc/?username=jimchen5209&label=Profile%20views&color=0e75b6&style=flat)  [![Personal Web](https://img.shields.io/badge/Personal%20Web-%F0%9F%8C%90-blue)](https://jimchen5209.me)
+# Hi 👋, I'm @jimchen5209 [![Personal Web](https://img.shields.io/badge/Personal%20Web-%F0%9F%8C%90-blue?style=flat-square)](https://jimchen5209.me) ![View Count](https://komarev.com/ghpvc/?username=jimchen5209&label=Profile%20views&color=blueviolet&style=flat-square)
 
- `A.K.A. Jim Chen, JIK, jimchen5209.tar.xz`  
+`A boy from Taiwan who loves writing codes`
 
-## A boy from Taiwan who loves writing codes  
+ > A.K.A. Jim Chen, JIK, jimchen5209.tar.xz  
 
 -----
 
