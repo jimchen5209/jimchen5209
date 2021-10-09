@@ -4,11 +4,11 @@
 
  > A.K.A. Jim Chen, JIK, jimchen5209.tar.xz  
 
------
+## Activity
 
 ![snk](https://raw.githubusercontent.com/jimchen5209/jimchen5209/snk-out/github-snake.svg)
 
------
+## Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=jimchen5209&show_icons=true&theme=github_dark)  
 
