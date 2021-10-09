@@ -16,4 +16,4 @@
 
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs?username=jimchen5209&theme=github_dark&layout=compact)  
 
-Powered by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats), [Github Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats), [snk](https://github.com/Platane/snk), and [Shields.io](https://github.com/badges/shields)
+Powered by [Shields.io](https://github.com/badges/shields), [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats), and [Github Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
