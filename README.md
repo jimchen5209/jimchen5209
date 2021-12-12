@@ -2,7 +2,7 @@
 
 `A boy from Taiwan who loves writing codes`
 
- > A.K.A. Jim Chen, JIK, jimchen5209.tar.xz  
+ > A.K.A. Jim Chen, JIK
 
 ## Skills  
 
