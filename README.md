@@ -57,12 +57,4 @@
 
 ![snk](https://raw.githubusercontent.com/jimchen5209/jimchen5209/snk-out/github-snake.svg)
 
-## Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=jimchen5209&show_icons=true&theme=github_dark)  
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jimchen5209&theme=github-dark)  
-
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs?username=jimchen5209&theme=github_dark&layout=compact)  
-
-Powered by [Shields.io](https://github.com/badges/shields), [Markdown Badges](https://github.com/Ileriayo/markdown-badges), [snk](https://github.com/Platane/snk), [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats), and [Github Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+Powered by [Shields.io](https://github.com/badges/shields), [Markdown Badges](https://github.com/Ileriayo/markdown-badges) and [snk](https://github.com/Platane/snk)
