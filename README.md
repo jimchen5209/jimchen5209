@@ -55,6 +55,10 @@
 
 ## Activity
 
-![snk](https://raw.githubusercontent.com/jimchen5209/jimchen5209/snk-out/github-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jimchen5209/jimchen5209/snk-out/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jimchen5209/jimchen5209/snk-out/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jimchen5209/jimchen5209/snk-out/github-contribution-grid-snake.svg" />
+</picture>
 
 Powered by [Shields.io](https://github.com/badges/shields), [Markdown Badges](https://github.com/Ileriayo/markdown-badges) and [snk](https://github.com/Platane/snk)
