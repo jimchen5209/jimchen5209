@@ -1,4 +1,4 @@
-# Hi 👋, I'm @jimchen5209 [![Personal Web](https://img.shields.io/badge/Personal%20Web-%F0%9F%8C%90-blue?style=flat-square)](https://jimchen5209.me) [![JW-Blog](https://img.shields.io/badge/JW--Blog-%F0%9F%8C%90-blue?style=flat-square)](https://jw-blog.jimchen5209.me) ![View Count](https://komarev.com/ghpvc/?username=jimchen5209&label=Profile%20views&color=blueviolet&style=flat-square)
+# Hi 👋, I'm @jimchen5209 [![Personal Web](https://img.shields.io/badge/Personal%20Web-%F0%9F%8C%90-blue?style=flat-square)](https://jimchen5209.me) [![LCE-Blog](https://img.shields.io/badge/LCE--Blog-%F0%9F%8C%90-blue?style=flat-square)](https://blog.lce-lab.dev) ![View Count](https://komarev.com/ghpvc/?username=jimchen5209&label=Profile%20views&color=blueviolet&style=flat-square)
 
 `A boy from Taiwan who loves writing codes`
 
